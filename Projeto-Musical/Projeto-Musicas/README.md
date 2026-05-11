@@ -1,11 +1,5 @@
 # 🎵 Projeto Música & IA: Composição Generativa com Gemini e Suno
-[T.U.Ê..mp3](https://github.com/user-attachments/files/27614544/T.U.E.mp3)
-[Portal do 085.mp3](https://github.com/user-attachments/files/27614543/Portal.do.085.mp3)
-[Madrugada Fria.mp3](https://github.com/user-attachments/files/27614542/Madrugada.Fria.mp3)
-[Frequência de Ouro.mp3](https://github.com/user-attachments/files/27614541/Frequencia.de.Ouro.mp3)
-[Espelho de Ouro.mp3](https://github.com/user-attachments/files/27614540/Espelho.de.Ouro.mp3)
 
- 
 ![GitHub language count](https://img.shields.io/github/languages/count/[SEU_USUARIO]/projeto-musica-ia?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/[SEU_USUARIO]/projeto-musica-ia?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)
