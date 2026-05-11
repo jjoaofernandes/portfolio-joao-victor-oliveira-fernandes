@@ -1,4 +1,10 @@
 # 🎵 Projeto Música & IA: Composição Generativa com Gemini e Suno
+[T.U.Ê..mp3](https://github.com/user-attachments/files/27614544/T.U.E.mp3)
+[Portal do 085.mp3](https://github.com/user-attachments/files/27614543/Portal.do.085.mp3)
+[Madrugada Fria.mp3](https://github.com/user-attachments/files/27614542/Madrugada.Fria.mp3)
+[Frequência de Ouro.mp3](https://github.com/user-attachments/files/27614541/Frequencia.de.Ouro.mp3)
+[Espelho de Ouro.mp3](https://github.com/user-attachments/files/27614540/Espelho.de.Ouro.mp3)
+
  
 ![GitHub language count](https://img.shields.io/github/languages/count/[SEU_USUARIO]/projeto-musica-ia?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/[SEU_USUARIO]/projeto-musica-ia?style=for-the-badge)
@@ -19,11 +25,11 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | Espelo de Ouro | Trap Agressivo / Dark Vibes | [Arquivo MP3]([./audio/musica1.mp3](https://github.com/jjoaofernandes/portfolio-joao-victor-oliveira-fernandes/blob/e1afa6d13af05238acfb2c63509e7fc86144196c/Projeto-Musical/Projeto-Musicas/Espelho%20de%20Ouro.mp3)) |
-| 02 | Portal do 085  | Trap Melfrek / Vibes Relaxantes | [Arquivo MP3]([./audio/musica2.mp3](https://github.com/jjoaofernandes/portfolio-joao-victor-oliveira-fernandes/blob/e1afa6d13af05238acfb2c63509e7fc86144196c/Projeto-Musical/Projeto-Musicas/Portal%20do%20085.mp3)) |
-| 03 | Madrugada Fria | trap, rap, experimental R&B / trap psicodélico | [Arquivo MP3]([./audio/musica3.mp3](https://github.com/jjoaofernandes/portfolio-joao-victor-oliveira-fernandes/blob/e1afa6d13af05238acfb2c63509e7fc86144196c/Projeto-Musical/Projeto-Musicas/Madrugada%20Fria.mp3)) |
-| 04 | T.U.Ê | Trap Psicodélico Sonoridade Temática No pd] | [Arquivo MP3]([./audio/musica4.mp3](https://github.com/jjoaofernandes/portfolio-joao-victor-oliveira-fernandes/blob/e1afa6d13af05238acfb2c63509e7fc86144196c/Projeto-Musical/Projeto-Musicas/T.U.%C3%8A..mp3)) |
-| 05 | Frequencia de Ouro | trap melódico, psicodélico, espiritual | [Arquivo MP3]([./audio/musica5.mp3](https://github.com/jjoaofernandes/portfolio-joao-victor-oliveira-fernandes/blob/e1afa6d13af05238acfb2c63509e7fc86144196c/Projeto-Musical/Projeto-Musicas/Frequ%C3%AAncia%20de%20Ouro.mp3)) |
+| 01 | Espelo de Ouro | Trap Agressivo / Dark Vibes | [Arquivo MP3](https://github.com/user-attachments/files/27614540/Espelho.de.Ouro.mp3) |
+| 02 | Portal do 085  | Trap Melfrek / Vibes Relaxantes | [Arquivo MP3](https://github.com/user-attachments/files/27614543/Portal.do.085.mp3) |
+| 03 | Madrugada Fria | trap, rap, experimental R&B / trap psicodélico | [Arquivo MP3](https://github.com/user-attachments/files/27614542/Madrugada.Fria.mp3) |
+| 04 | T.U.Ê | Trap Psicodélico Sonoridade Temática No pd] | [Arquivo MP3](https://github.com/user-attachments/files/27614544/T.U.E.mp3)|
+| 05 | Frequencia de Ouro | trap melódico, psicodélico, espiritual | [Arquivo MP3](https://github.com/user-attachments/files/27614541/Frequencia.de.Ouro.mp3) |
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
