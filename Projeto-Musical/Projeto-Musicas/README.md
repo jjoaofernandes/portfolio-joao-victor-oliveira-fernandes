@@ -19,11 +19,11 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | [Espelo de Ouro] | [Trap Agressivo / Dark Vibes] | [Arquivo MP3](./audio/Espelho%20de%20Ouro.mp3) |
-| 02 | [Portal do 085 ] | [Trap Melfrek / Vibes Relaxantes] | [Arquivo MP3](./audio/Portal%20do%20085.mp3) |
-| 03 | [Madrugada Fria] | [trap, rap, experimental R&B / trap psicodélico] | [Arquivo MP3](./audio/Madrugada%20Fria.mp3) |
-| 04 | [T.U.Ê] | [Trap Psicodélico Sonoridade Temática No pdf] | [Arquivo MP3](./audio/T.U.Ê..mp3) |
-| 05 | [Frequencia de Ouro] | [trap melódico, psicodélico, espiritual] | [Arquivo MP3](./audio/Frequência%20de%20Ouro.mp3) |
+| 01 | [Espelo de Ouro] | [Trap Agressivo / Dark Vibes] | [Arquivo MP3](./audio/musica1.mp3) |
+| 02 | [Portal do 085 ] | [Trap Melfrek / Vibes Relaxantes] | [Arquivo MP3](./audio/musica2.mp3) |
+| 03 | [Madrugada Fria] | [trap, rap, experimental R&B / trap psicodélico] | [Arquivo MP3](./audio/musica3.mp3) |
+| 04 | [T.U.Ê] | [Trap Psicodélico Sonoridade Temática No pdf] | [Arquivo MP3](./audio/musica4.mp3) |
+| 05 | [Frequencia de Ouro] | [trap melódico, psicodélico, espiritual] | [Arquivo MP3](./audio/musica5.mp3) |
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
