@@ -36,20 +36,27 @@ Atualmente cursando o [2º] período de Analise de Desenvolvimento de Software n
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
+#### 🤖 Inteligência Artificial & Engenharia de Prompt
+
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
- 
-#### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
- 
+| **SM1 - A Corrida do Prompt** | Exploração de técnicas de prompting para otimizar interações com modelos de linguagem. | [Ver Projeto]() |
+| **SM2 - Laboratório de Classificação Visual** | Usando o teachablemachine para treinamento de um modelo de machine learnig. | [Ver Projeto]() |
+| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Comparativo entre modelos de IA e uso avançado de XML na estruturação de prompts. | [Ver Projeto]()|
+| **SM4 - Engenharia Reversa** | Análise e documentação reversa de sistemas e fluxos de software. | [Ver Projeto]()|
+| **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** | Desenvolvimento de um produto digital partindo de um clone até um MVP funcional. | [Ver Projeto]()|
+| **SM6 - Engenharia de Software e IA com Bubble.io** | Construção de aplicações com ferramentas no-code integradas à Inteligência Artificial. | [Ver Projeto]() |
+| **SM7 -  Desenvolvimento de App de Videoconferência com Manus Ai e Jitsi** | Desenvolvimento de um aplicativo mobile com a ferramenta Manus Ia. | [Ver Projeto]() |
+| **SM8 - Composição Musical Assistida por Inteligência Artificial** | Criação de músicas com Inteligência Artificial. | [Ver Projeto]() |
+
+
+
 ---
- 
+
 ### 🏗 Estrutura do Repositório
+
 Abaixo, a organização deste repositório para facilitar a navegação:
- 
+
 - `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+- `/sm1-corrida-do-prompt/`: Projeto sobre técnicas de prompting.
+- `/sm2-classificacao-visual/`: Projeto de classificação com IA.
