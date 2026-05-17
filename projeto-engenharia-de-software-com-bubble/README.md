@@ -94,7 +94,7 @@ As regras de negócio (cálculo de revisões espaçadas, métricas de metas) est
 
 ## 🚀 Como Acessar
 
-> O sistema está hospedado na plataforma Bubble. Para acessar, entre em contato ou acesse o link do projeto publicado.
+> O sistema está hospedado na plataforma Bubble. Para acessar, entre no link: https://mgj240819.bubbleapps.io/version-test?debug_mode=true.
 
 
 ---
