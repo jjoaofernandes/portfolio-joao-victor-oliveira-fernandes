@@ -46,8 +46,8 @@ Atualmente cursando o [2º] período de Analise de Desenvolvimento de Software n
 | **SM4 - Engenharia Reversa** | Análise e documentação reversa de sistemas e fluxos de software. | [Ver Projeto]()|
 | **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** | Desenvolvimento de um produto digital partindo de um clone até um MVP funcional. | [Ver Projeto]()|
 | **SM6 - Engenharia de Software e IA com Bubble.io** | Construção de aplicações com ferramentas no-code integradas à Inteligência Artificial. | [Ver Projeto]() |
-| **SM7 -  Desenvolvimento de App de Videoconferência com Manus Ai e Jitsi** | Desenvolvimento de um aplicativo mobile com a ferramenta Manus Ia. | [Ver Projeto]() |
-| **SM8 - Composição Musical Assistida por Inteligência Artificial** | Criação de músicas com Inteligência Artificial. | [Ver Projeto]() |
+| **SM7 -  Desenvolvimento de App de Videoconferência com Manus Ai e Jitsi** | Desenvolvimento de um aplicativo mobile com a ferramenta Manus Ia. | [Ver Projeto](https://github.com/jjoaofernandes/portfolio-joao-victor-oliveira-fernandes/tree/236a06494d6276e7e4b5b51674362ff34e521bc2/Desenvolvimento-de-App-de-Videoconfer-ncia-Encontrinho) |
+| **SM8 - Composição Musical Assistida por Inteligência Artificial** | Criação de músicas com Inteligência Artificial. | [Ver Projeto](https://github.com/jjoaofernandes/portfolio-joao-victor-oliveira-fernandes/tree/236a06494d6276e7e4b5b51674362ff34e521bc2/Projeto-Musical/Projeto-Musicas) |
 
 
 
