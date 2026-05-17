@@ -40,14 +40,14 @@ Atualmente cursando o [2º] período de Analise de Desenvolvimento de Software n
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM1 - A Corrida do Prompt** | Exploração de técnicas de prompting para otimizar interações com modelos de linguagem. | [Ver Projeto]() |
-| **SM2 - Laboratório de Classificação Visual** | Usando o teachablemachine para treinamento de um modelo de machine learnig. | [Ver Projeto]() |
-| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Comparativo entre modelos de IA e uso avançado de XML na estruturação de prompts. | [Ver Projeto]()|
-| **SM4 - Engenharia Reversa** | Análise e documentação reversa de sistemas e fluxos de software. | [Ver Projeto]()|
-| **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** | Desenvolvimento de um produto digital partindo de um clone até um MVP funcional. | [Ver Projeto]()|
-| **SM6 - Engenharia de Software e IA com Bubble.io** | Construção de aplicações com ferramentas no-code integradas à Inteligência Artificial. | [Ver Projeto]() |
-| **SM7 -  Desenvolvimento de App de Videoconferência com Manus Ai e Jitsi** | Desenvolvimento de um aplicativo mobile com a ferramenta Manus Ia. | [Ver Projeto](https://github.com/jjoaofernandes/portfolio-joao-victor-oliveira-fernandes/tree/236a06494d6276e7e4b5b51674362ff34e521bc2/Desenvolvimento-de-App-de-Videoconfer-ncia-Encontrinho) |
-| **SM8 - Composição Musical Assistida por Inteligência Artificial** | Criação de músicas com Inteligência Artificial. | [Ver Projeto](https://github.com/jjoaofernandes/portfolio-joao-victor-oliveira-fernandes/tree/236a06494d6276e7e4b5b51674362ff34e521bc2/Projeto-Musical/Projeto-Musicas) |
+| **SM1 - A Corrida do Prompt** | Exploração de técnicas de prompting para otimizar interações com modelos de linguagem. | [Ver Projeto](https://github.com/jjoaofernandes/portfolio-joao-victor-oliveira-fernandes/tree/2ac6db6728c7d77da4865275679d7264f987f905/projeto-a-corrida-do-prompt) |
+| **SM2 - Laboratório de Classificação Visual** | Usando o teachablemachine para treinamento de um modelo de machine learnig. | [Ver Projeto](https://github.com/jjoaofernandes/portfolio-joao-victor-oliveira-fernandes/tree/2ac6db6728c7d77da4865275679d7264f987f905/projeto-laboratorio-de-classificacao-visual) |
+| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Comparativo entre modelos de IA e uso avançado de XML na estruturação de prompts. | [Ver Projeto](https://github.com/jjoaofernandes/portfolio-joao-victor-oliveira-fernandes/tree/2ac6db6728c7d77da4865275679d7264f987f905/projeto-batalha-de-modelos-e-engenharia-de-prompt)|
+| **SM4 - Engenharia Reversa** | Análise e documentação reversa de sistemas e fluxos de software. | [Ver Projeto](https://github.com/jjoaofernandes/portfolio-joao-victor-oliveira-fernandes/tree/2ac6db6728c7d77da4865275679d7264f987f905/projeto-engenharia-reversa)|
+| **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** | Desenvolvimento de um produto digital partindo de um clone até um MVP funcional. | [Ver Projeto](https://github.com/jjoaofernandes/portfolio-joao-victor-oliveira-fernandes/tree/2ac6db6728c7d77da4865275679d7264f987f905/projeto-do-clone-ao-produto-minimo)|
+| **SM6 - Engenharia de Software e IA com Bubble.io** | Construção de aplicações com ferramentas no-code integradas à Inteligência Artificial. | [Ver Projeto](https://github.com/jjoaofernandes/portfolio-joao-victor-oliveira-fernandes/tree/2ac6db6728c7d77da4865275679d7264f987f905/projeto-do-clone-ao-produto-minimo) |
+| **SM7 -  Desenvolvimento de App de Videoconferência com Manus Ai e Jitsi** | Desenvolvimento de um aplicativo mobile com a ferramenta Manus Ia. | [Ver Projeto](https://github.com/jjoaofernandes/portfolio-joao-victor-oliveira-fernandes/tree/2ac6db6728c7d77da4865275679d7264f987f905/Desenvolvimento-de-App-de-Videoconfer-ncia-Encontrinho) |
+| **SM8 - Composição Musical Assistida por Inteligência Artificial** | Criação de músicas com Inteligência Artificial. | [Ver Projeto](https://github.com/jjoaofernandes/portfolio-joao-victor-oliveira-fernandes/tree/2ac6db6728c7d77da4865275679d7264f987f905/Projeto-Musical/Projeto-Musicas) |
 
 
 
