@@ -15,7 +15,8 @@ Portifólio de projetos de tecnologia do João Victor Olivera Fernandes
 ### 👨‍💻 Sobre
 Atualmente cursando o [2º] período de Analise de Desenvolvimento de Software na Universidade Cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Segu.
  
-* **Habilidades Técnicas:** [CSS,HTML 5,SQL e Python].
+
+* **Habilidades Técnicas:** HTML, CSS, JavaScript, Python, Java, SQL, Pandas e Postgresql.
 * **Habilidades Socioemocionais:** Trabalho em equipe, Organização e Gestão de Tempo, pensamento crítico e empatia.
 
 ---
@@ -24,13 +25,20 @@ Atualmente cursando o [2º] período de Analise de Desenvolvimento de Software n
  
 #### 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 #### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)k)
  
 #### 🤖 Inteligência Artificial & Ciência de Dados
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Suno](https://img.shields.io/badge/Suno-000000?style=for-the-badge&logo=suno&logoColor=white)
+
  
 ---
  
