@@ -68,3 +68,9 @@ Abaixo, a organização deste repositório para facilitar a navegação:
 - `root/`: Arquivo de apresentação principal.
 - `/sm1-corrida-do-prompt/`: Projeto sobre técnicas de prompting.
 - `/sm2-classificacao-visual/`: Projeto de classificação com IA.
+- `/sm3-batalha-de-modelos-e-engenharia-de-prompt/`: Comparativo entre modelos e uso de XML em prompts.
+- `/sm4-engenharia-reversa/`: Análise e documentação reversa de sistemas (PixelQr).
+- `/sm5-do-clone-ao-produto-minimo/`: Desenvolvimento de MVP a partir de um clone funcional.
+- `/sm6-engenharia-de-software-bubble/`: Aplicações no-code com Bubble.io integradas à IA.
+- `/sm7-app-videoconferencia-manus-jitsi/`: Aplicativo mobile de videoconferência com Manus AI e Jitsi.
+- `/sm8-composicao-musical-ia/`: Criação de músicas assistida por Inteligência Artificial.
