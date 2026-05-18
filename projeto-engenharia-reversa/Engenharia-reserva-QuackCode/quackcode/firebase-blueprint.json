@@ -1,0 +1,41 @@
+{
+  "entities": {
+    "User": {
+      "title": "User Profile",
+      "description": "User profile information",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string", "description": "The user's unique ID" },
+        "displayName": { "type": "string", "description": "The user's display name" },
+        "email": { "type": "string", "format": "email", "description": "The user's email address" },
+        "photoURL": { "type": "string", "description": "The user's photo URL" },
+        "createdAt": { "type": "string", "format": "date-time", "description": "The time the user profile was created" }
+      },
+      "required": ["uid", "email", "createdAt"]
+    },
+    "QRCode": {
+      "title": "QR Code",
+      "description": "A saved QR code configuration",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "description": "The unique ID of the QR code" },
+        "userId": { "type": "string", "description": "The ID of the user who owns the QR code" },
+        "name": { "type": "string", "description": "The name of the QR code" },
+        "data": { "type": "string", "description": "The data encoded in the QR code" },
+        "options": { "type": "object", "description": "The styling options for the QR code" },
+        "createdAt": { "type": "string", "format": "date-time", "description": "The time the QR code was saved" }
+      },
+      "required": ["id", "userId", "data", "options", "createdAt"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "User",
+      "description": "User profiles collection"
+    },
+    "/users/{userId}/qrcodes/{qrCodeId}": {
+      "schema": "QRCode",
+      "description": "User's saved QR codes"
+    }
+  }
+}

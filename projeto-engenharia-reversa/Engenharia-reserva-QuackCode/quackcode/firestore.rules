@@ -1,0 +1,101 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // ===============================================================
+    // Assumed Data Model
+    // ===============================================================
+    //
+    // Collection: /users/{userId}
+    // Document ID: {userId} (Firebase Auth UID)
+    // Fields:
+    //   - uid: string (required) - The user's unique ID
+    //   - displayName: string (optional) - The user's display name
+    //   - email: string (required, email format) - The user's email address
+    //   - photoURL: string (optional, URL format) - The user's photo URL
+    //   - lastLogin: timestamp (required) - The time the user last logged in
+    //
+    // Collection: /users/{userId}/qrcodes/{qrCodeId}
+    // Document ID: {qrCodeId} (Auto-generated)
+    // Fields:
+    //   - userId: string (required, matches parent userId) - The ID of the owner
+    //   - name: string (required) - The name of the QR code
+    //   - data: string (required) - The data encoded in the QR code
+    //   - options: map (required) - The styling options for the QR code
+    //   - createdAt: timestamp (required) - The time the QR code was saved
+    //
+    // ===============================================================
+
+    // ===============================================================
+    // Helper Functions
+    // ===============================================================
+    
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+
+    function isValidEmail(email) {
+      return email is string && email.matches("^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$");
+    }
+
+    function isValidUrl(url) {
+      return url is string && (url.matches("^https://.*") || url.matches("^http://.*"));
+    }
+
+    function hasRequiredFields(fields) {
+      return request.resource.data.keys().hasAll(fields);
+    }
+
+    function hasOnlyAllowedFields(fields) {
+      return request.resource.data.keys().hasOnly(fields);
+    }
+
+    // ===============================================================
+    // Domain Validators
+    // ===============================================================
+
+    function isValidUser(data) {
+      return hasRequiredFields(['uid', 'email', 'lastLogin']) &&
+             data.uid == request.auth.uid &&
+             isValidEmail(data.email) &&
+             (data.displayName == null || (data.displayName is string && data.displayName.size() < 100)) &&
+             (data.photoURL == null || isValidUrl(data.photoURL));
+    }
+
+    function isValidQRCode(data, userId) {
+      return hasRequiredFields(['userId', 'name', 'data', 'options', 'createdAt']) &&
+             data.userId == userId &&
+             data.userId == request.auth.uid &&
+             data.name is string && data.name.size() > 0 && data.name.size() < 100 &&
+             data.data is string && data.data.size() > 0 && data.data.size() < 2048 &&
+             data.options is map;
+    }
+
+    // ===============================================================
+    // Rules
+    // ===============================================================
+
+    // User profiles
+    match /users/{userId} {
+      // Users can only read their own profile
+      allow read: if isOwner(userId);
+      
+      // Users can create/update their own profile
+      allow create: if isOwner(userId) && isValidUser(request.resource.data);
+      allow update: if isOwner(userId) && isValidUser(request.resource.data);
+      
+      // QR Codes subcollection
+      match /qrcodes/{qrCodeId} {
+        // Users can only read/write their own QR codes
+        allow read: if isOwner(userId);
+        allow create: if isOwner(userId) && isValidQRCode(request.resource.data, userId);
+        allow update: if isOwner(userId) && isValidQRCode(request.resource.data, userId);
+        allow delete: if isOwner(userId);
+      }
+    }
+  }
+}
